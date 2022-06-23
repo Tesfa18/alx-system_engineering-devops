@@ -1,2 +1,2 @@
 #!/bin/bash
-command pwd
+type pwd
